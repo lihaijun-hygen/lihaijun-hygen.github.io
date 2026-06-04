@@ -1,4 +1,4 @@
-[![MathSciNet](https://img.shields.io/badge/MathSciNet-lihaijun-005A9C?style=flat-square&logo=packt&logoColor=white)](https://mathscinet.ams.org/mathscinet/author?authorId=1678181) [![ORCID ID](https://img.shields.io/badge/ORCID-0000--0002--8747--0237-green?logo=orcid)](https://orcid.org/0000-0002-8747-0237)
+[![MathSciNet](https://img.shields.io/badge/MathSciNet-lihaijun-005A9C?style=flat-square&logo=icloud&logoColor=blue)](https://mathscinet.ams.org/mathscinet/author?authorId=1678181) [![ORCID ID](https://img.shields.io/badge/ORCID-0000--0002--8747--0237-green?logo=orcid)](https://orcid.org/0000-0002-8747-0237)
 
 I am currently a Ph.D. student at the College of Mathematics and Statistics, Chongqing University, China.
 
