@@ -1,4 +1,4 @@
-[![MathSciNet](https://img.shields.io/badge/MathSciNet-lihaijun-005A9C?style=flat-square)](https://mathscinet.ams.org/mrsearch/author.html?authorId=1678181)
+[![MathSciNet](https://img.shields.io/badge/MathSciNet-lihaijun-005A9C?style=flat-square)](https://mathscinet.ams.org/mathscinet/author?authorId=1678181)
 
 [![ORCID ID](https://img.shields.io/badge/ORCID-0000--0002--8747--0237-green?logo=orcid)](https://orcid.org/0000-0002-8747-0237)
 
