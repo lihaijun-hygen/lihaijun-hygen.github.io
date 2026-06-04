@@ -1,12 +1,32 @@
 #### PREPRINT
 
 <ol reversed style="list-style-type: decimal;">
+     <li style="text-align: justify;">
+        <strong>H. Li</strong>, Combinatorial perspectives on identities for partitions with distinct even parts (2026). 
+        <a href="https://doi.org/10.48550/arXiv.2603.10816" style="text-decoration: none;">[Paper]</a>
+    </li>
     <li style="text-align: justify;">
-        Q. Fang, S. Fu, S. Kitaev, <strong>H. Li</strong>, Y. Wang, Consecutive and quasi-consecutive patterns: des-Wilf classifications and generating functions. 
+        N.D. Baruah, <strong>H. Li</strong>, P.J. Mahanta, Combinatorial proofs of some identities on overpartitions with repeated smallest non-overlined part (2026). 
+        <a href="https://doi.org/10.48550/arXiv.2601.19736" style="text-decoration: none;">[Paper]</a>
+    </li>
+    <li style="text-align: justify;">
+        Q. Fang, S. Fu, <strong>H. Li</strong>, Q. Yuan, Parity patterns meet Genocchi numbers, I: four labelings and three bijections (2025). 
+        <a href="https://doi.org/10.48550/arXiv.2510.13258" style="text-decoration: none;">[Paper]</a>
+    </li>
+    <li style="text-align: justify;">
+        <strong>H. Li</strong>, Sequences of odd length in strict partitions IV: the combinatorics of parameterized Rogers-Ramanujan type identities (2025). 
+        <a href="https://doi.org/10.48550/arXiv.2509.24942" style="text-decoration: none;">[Paper]</a>
+    </li>
+    <li style="text-align: justify;">
+        Q. Fang, S. Fu, S. Kitaev, <strong>H. Li</strong>, On fourteen equidistribution conjectures of Lv and Zhang and monotone mesh patterns with corner shadings (2025). 
+        <a href="https://doi.org/10.48550/arXiv.2507.04698" style="text-decoration: none;">[Paper]</a>
+    </li>
+    <li style="text-align: justify;">
+        Q. Fang, S. Fu, S. Kitaev, <strong>H. Li</strong>, Y. Wang, Consecutive and quasi-consecutive patterns: des-Wilf classifications and generating functions (2025). 
         <a href="https://doi.org/10.48550/arXiv.2502.10128" style="text-decoration: none;">[Paper]</a>
     </li>
     <li style="text-align: justify;">
-        S. Fu, <strong>H. Li</strong>, Sequences of odd length in strict partitions III: Rogers-Ramanujan partitions and multi-sum identities. 
+        S. Fu, <strong>H. Li</strong>, Sequences of odd length in strict partitions III: Rogers-Ramanujan partitions and multi-sum identities (2024). 
     </li>
 </ol>
 
