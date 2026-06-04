@@ -1,6 +1,4 @@
-
-
-[![lihaijun-hygen](https://img.shields.io/badge/lihaijun--hygen-github-blue?logo=github)](https://github.com/lihaijun-hygen)
+[![MathSciNet](https://img.shields.io/badge/MathSciNet-lihaijun-005A9C?style=flat-square)](https://mathscinet.ams.org/mrsearch/author.html?authorId=1678181)
 
 [![ORCID ID](https://img.shields.io/badge/ORCID-0000--0002--8747--0237-green?logo=orcid)](https://orcid.org/0000-0002-8747-0237)
 
