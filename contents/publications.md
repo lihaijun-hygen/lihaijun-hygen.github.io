@@ -1,8 +1,9 @@
-#### Submitted
+#### PREPRINT
 
 - TBA
 
-#### Published
+#### PUBLISHED
+
 3. <strong>H. Li</strong>*, The combinatorics of identities involving overpartitions with distinct parts, Ramanujan J. <strong>69<strong> (2026), no. 4, Paper No. 84, 20 pp. [[Paper]](https://doi.org/10.1007/s11139-026-01361-1)
 
 2. S. Fu, <strong>H. Li</strong>*, Sequences of odd length in strict partitions I: The
