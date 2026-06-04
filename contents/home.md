@@ -2,6 +2,8 @@
 
 [![lihaijun-hygen](https://img.shields.io/badge/lihaijun--hygen-github-blue?logo=github)](https://github.com/lihaijun-hygen)
 
+[![ORCID ID](https://img.shields.io/badge/ORCID-0000--0002--8747--0237-green?logo=orcid)](https://orcid.org/0000-0002-8747-0237)
+
 I am currently a Ph.D. student at the College of Mathematics and Statistics, Chongqing University, China.
 
 #### CONTACT
