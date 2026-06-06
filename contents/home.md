@@ -21,5 +21,5 @@ Email: lihaijun@cqu.edu.cn, lihaijune@163.com
 </ol>
 
 #### RESEARCH INTERESTS
-Combinatorics; Number Theory; Special Functions.
+Combinatorics (<a href="https://msc2020.org/MSC_2020.pdf" style="text-decoration: none;">[05A05, 05A15, 05A17, 05A19]</a>); Number Theory (<a href="https://msc2020.org/MSC_2020.pdf" style="text-decoration: none;">[11P81, 11P82, 11P83, 11P84]</a>); Special Functions (<a href="https://msc2020.org/MSC_2020.pdf" style="text-decoration: none;">[33D15, 33D67, 33D70, 33E05]</a>).
 
