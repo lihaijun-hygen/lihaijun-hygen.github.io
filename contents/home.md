@@ -8,6 +8,7 @@ I am currently a Ph.D. student at the College of Mathematics and Statistics, Cho
 <div style="text-align: justify; margin-bottom: 10px;">
 Email: lihaijun@cqu.edu.cn, lihaijune@163.com
 </div>
+
 #### EDUCATION
 
 <ol reversed style="list-style-type: disc; padding-left: 20px;">
