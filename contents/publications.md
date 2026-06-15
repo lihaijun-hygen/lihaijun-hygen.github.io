@@ -2,6 +2,10 @@
 
 <ol reversed style="list-style-type: decimal;">
      <li style="text-align: justify;">
+        Q. Fang, S. Fu, S. Kitaev, <strong>H. Li</strong>, X. Su and Z. Sun, On mesh patterns of short length: Equidistribution and enumeration (2026). 
+        <a href="https://doi.org/10.48550/arXiv.2606.14367" style="text-decoration: none;">[arXiv]</a>
+    </li>
+     <li style="text-align: justify;">
         <strong>H. Li</strong>, Combinatorial perspectives on identities for partitions with distinct even parts (2026). 
         <a href="https://doi.org/10.48550/arXiv.2603.10816" style="text-decoration: none;">[arXiv]</a>
     </li>
