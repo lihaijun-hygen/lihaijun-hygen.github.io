@@ -1,6 +1,13 @@
 #### PREPRINT
 
 <ol reversed style="list-style-type: decimal;">
+      <li style="text-align: justify;">
+        <strong>H. Li</strong>, Proofs of four conjectural identities on modular rank four Nahm sums (2026). 
+        <a href="https://doi.org/10.48550/arXiv.2606.25866" style="text-decoration: none;">[arXiv]</a>
+    </li>
+     <li style="text-align: justify;">
+        J. Liu, Y. Tian and <strong>H. Li</strong>, Combinatorial and analytic proofs for identities on two-color partitions with evens in one color (2026).
+    </li>
      <li style="text-align: justify;">
         Q. Fang, S. Fu, S. Kitaev, <strong>H. Li</strong>, X. Su and Z. Sun, On mesh patterns of short length: Equidistribution and enumeration (2026). 
         <a href="https://doi.org/10.48550/arXiv.2606.14367" style="text-decoration: none;">[arXiv]</a>
@@ -37,6 +44,11 @@
 #### PUBLISHED
 
 <ol reversed style="list-style-type: decimal;">
+      <li style="text-align: justify;">
+        <strong>H. Li</strong>*, Linked partition ideals and gap-frequency partitions, Discrete Math. <strong>349</strong> (2026), no. 11, Paper No. 115280, 15 pp.  
+        <a href="https://doi.org/10.1016/j.disc.2026.115280" style="text-decoration: none;">[DOI]</a>
+        <a href="https://doi.org/10.48550/arXiv.2606.16739" style="text-decoration: none;">[arXiv]</a>
+    </li>
     <li style="text-align: justify;">
         <strong>H. Li</strong>*, The combinatorics of identities involving overpartitions with distinct parts, Ramanujan J. <strong>69</strong> (2026), no. 4, Paper No. 84, 20 pp. 
         <a href="https://doi.org/10.1007/s11139-026-01361-1" style="text-decoration: none;">[DOI]</a>
