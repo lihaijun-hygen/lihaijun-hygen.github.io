@@ -2,7 +2,7 @@
 
 <ol reversed style="list-style-type: decimal;">
       <li style="text-align: justify;">
-        <strong>H. Li</strong>, Proofs of four conjectural identities on modular rank four Nahm sums (2026). 
+        <strong>H. Li</strong>, Proofs of five conjectural identities on modular rank four Nahm sums (2026). 
         <a href="https://doi.org/10.48550/arXiv.2606.25866" style="text-decoration: none;">[arXiv]</a>
     </li>
      <li style="text-align: justify;">
