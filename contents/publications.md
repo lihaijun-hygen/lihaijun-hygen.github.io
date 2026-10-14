@@ -1,6 +1,10 @@
 #### PREPRINT
 
 <ol reversed style="list-style-type: decimal;">
+       <li style="text-align: justify;">
+        <strong>H. Li</strong>, Further results on non-negativity conjectures for copartition products (2026). 
+        <a href="https://arxiv.org/abs/2609.16913" style="text-decoration: none;">[arXiv]</a>
+    </li>
       <li style="text-align: justify;">
         <strong>H. Li</strong>, Proofs of five conjectural identities on modular rank four Nahm sums (2026). 
         <a href="https://doi.org/10.48550/arXiv.2606.25866" style="text-decoration: none;">[arXiv]</a>
