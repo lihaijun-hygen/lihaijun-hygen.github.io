@@ -1,5 +1,8 @@
 <ol reversed style="list-style-type: decimal;">
   <li style="text-align: justify;">
+        The 12th National Combinatorics and Graph Theory Conference (第十二届全国组合数学与图论大会), Shandong University of Technology, Zibo, Shandong, China, July 20-24, 2026.
+    </li>
+  <li style="text-align: justify;">
         Annual Academic Conference of the CSIAM Activity Group on Graph Theory and Combinatorics with Applications (CSIAM图论组合及应用专委会学术年会), Hebei Normal University, Shijiazhuang, Hebei, China, May 15-17, 2026.
     </li>
   <li style="text-align: justify;">
