@@ -13,6 +13,9 @@ Email: lihaijun@cqu.edu.cn, lihaijune@163.com
 
 <ol reversed style="list-style-type: disc; padding-left: 20px;">
     <li style="text-align: justify;">
+    Visiting Ph.D., Mathematics, University of Vienna, 2026.10—present.
+    </li>
+    <li style="text-align: justify;">
       Ph.D., Mathematics, Chongqing University, 2025.2—present.
     </li>
     <li style="text-align: justify;">
