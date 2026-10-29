@@ -1,6 +1,14 @@
 #### PREPRINT
 
 <ol reversed style="list-style-type: decimal;">
+        <li style="text-align: justify;">
+        <strong>H. Li</strong>, Combinatorial decompositions of strict partitions and multi-sum Rogers-Ramanujan type identities (2026). 
+        <a href="https://arxiv.org/abs/2610.35234v1" style="text-decoration: none;">[arXiv]</a>
+    </li>
+       <li style="text-align: justify;">
+        <strong>H. Li</strong> and C. Wang, Two companion q-series identities and their combinatorics (2026). 
+        <a href="https://arxiv.org/abs/2610.19956v1" style="text-decoration: none;">[arXiv]</a>
+    </li>
        <li style="text-align: justify;">
         <strong>H. Li</strong>, Further results on non-negativity conjectures for copartition products (2026). 
         <a href="https://arxiv.org/abs/2609.16913" style="text-decoration: none;">[arXiv]</a>
