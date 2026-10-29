@@ -10,9 +10,6 @@
         <a href="https://doi.org/10.48550/arXiv.2606.25866" style="text-decoration: none;">[arXiv]</a>
     </li>
      <li style="text-align: justify;">
-        J.-C. Liu, Y. Tian and <strong>H. Li</strong>, Combinatorial and analytic proofs for identities on two-color partitions with evens in one color (2026).
-    </li>
-     <li style="text-align: justify;">
         Q. Fang, S. Fu, S. Kitaev, <strong>H. Li</strong>, X. Su and Z. Sun, On mesh patterns of short length: Equidistribution and enumeration (2026). 
         <a href="https://doi.org/10.48550/arXiv.2606.14367" style="text-decoration: none;">[arXiv]</a>
     </li>
